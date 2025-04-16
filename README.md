@@ -1,4 +1,4 @@
-Here’s an enhanced and cleaned-up version of your **Git and GitHub Basics README**, complete with better structure, formatting, and a few additional useful sections like aliases, Git GUI tools, and troubleshooting tips. Perfect for beginners and even as a quick cheat sheet for seasoned devs or QAs!
+**Git and GitHub Basics README**, complete with better structure, formatting, and a few additional useful sections like aliases, Git GUI tools, and troubleshooting tips. Perfect for beginners and even as a quick cheat sheet for seasoned devs or QAs!
 
 ---
 
